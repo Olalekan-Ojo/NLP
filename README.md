@@ -5,3 +5,4 @@ I recently started Learning Natural language processing and its intresting so mu
 Topics to be covered:  
 
   * Text Classfication
+  * Topic modelling
