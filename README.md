@@ -6,3 +6,4 @@ Topics to be covered:
 
   * Text Classfication
   * Topic modelling
+  * Text Summarization
