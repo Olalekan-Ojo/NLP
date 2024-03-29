@@ -4,6 +4,7 @@ I recently started Learning Natural language processing and its intresting so mu
 
 Topics to be covered:  
 
-  * Text Classfication
+  * Text Classfication using Machine learning
   * Topic modelling
   * Text Summarization
+  * 
