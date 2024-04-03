@@ -4,7 +4,7 @@ I recently started Learning Natural language processing and its intresting so mu
 
 Topics to be covered:  
 
-  * Text Classfication using Machine learning
+  * Text Classfication on Chatgpt dataset on Audience reaction to the realease of Chatgpt in 2021 
   * Topic modelling
   * Text Summarization
   * 
