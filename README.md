@@ -7,4 +7,4 @@ Topics to be covered:
   * Text Classfication on Chatgpt dataset on Audience reaction to the realease of Chatgpt in 2021 
   * Topic modelling
         * Artificial intelligence dataset from SCOPUS 
-  * Text Summarization
+ 
