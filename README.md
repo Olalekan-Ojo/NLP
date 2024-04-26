@@ -4,7 +4,7 @@ I recently started Learning Natural language processing and its intresting so mu
 
 Topics to be covered:  
 
-  * Text Classfication on Chatgpt dataset on Audience reaction to the realease of Chatgpt in 2021 using NNLM 
+  * Text Classfication on Chatgpt dataset on Audience reaction to the realease of Chatgpt in 2021 using NNLM- Pretrained on Google corpus 
   * Topic modelling
         * Artificial intelligence dataset from SCOPUS 
         * Mental health dataset from SCOPUS 
