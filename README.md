@@ -8,4 +8,3 @@ Topics to be covered:
   * Topic modelling
         * Artificial intelligence dataset from SCOPUS 
         * Mental health dataset from SCOPUS 
- 
