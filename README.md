@@ -13,5 +13,3 @@ Topics to be covered:
  * Large Language model
 
 
-
-
