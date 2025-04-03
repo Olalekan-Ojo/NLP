@@ -12,5 +12,3 @@ Topics to be covered:
         * Mental health dataset from SCOPUS.
  * Large Language model.
 
-
-
